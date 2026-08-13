@@ -1,7 +1,5 @@
-# 💊 Inspección de Blísters y Control de Calidad con Visión Computacional
-## 📸 Demostración del Sistema
-
-| Detección y Marcadores ArUco | Inspección / Resultado Final |
+#  Inspección de Blísters y Control de Calidad con Visión Computacional
+| Detección | Inspección / Resultado Final |
 | :---: | :---: |
 | <img src="Resultados_V3/1.jpeg" width="450"> | <img src="Resultados_V3/2.jpeg" width="450"> |
 
@@ -12,7 +10,7 @@ Sistema integral de **Visión Computacional y Procesamiento Digital de Imágenes
 
 ---
 
-## 📌 Características Principales del Sistema
+##Características Principales del Sistema
 
 * **Referenciación Espacial con Marcadores ArUco:** Detección de marcadores para calibración de cámara, corrección de perspectiva (*warp perspective*) y delimitación precisa de la Región de Interés (ROI).
 * **Detección y Segmentación de Cavidades:** Localización automática de cada celdilla del blíster e identificación de la presencia o ausencia de pastillas.
@@ -21,7 +19,7 @@ Sistema integral de **Visión Computacional y Procesamiento Digital de Imágenes
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 Vision-Artificial/
