@@ -12,7 +12,7 @@ Sistema integral de **Visión Computacional y Procesamiento Digital de Imágenes
 
 ##  Características Principales del Sistema
 
-* **Referenciación Espacial con Marcadores ArUco:** Detección de marcadores para calibración de cámara, corrección de perspectiva (*warp perspective*) y delimitación precisa de la Región de Interés (ROI).
+* **Referenciación Espacial con Marcadores ArUco:** Detección de marcadores para calibración de cámara.
 * **Detección y Segmentación de Cavidades:** Localización automática de cada celdilla del blíster e identificación de la presencia o ausencia de pastillas.
 * **Clasificación de Calidad:** Evaluación de comprimidos completos, incompletos o ausentes mediante análisis  de contornos.
 * **Adquisición en Tiempo Real (`test_camera.py`):** Módulo para captura con apk android utilizando un celular.
